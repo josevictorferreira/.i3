@@ -585,7 +585,7 @@ for_window [class="Gnome-terminal"] focus
 for_window [class="Termite"] focus
 for_window [class="Terminator"] focus
 for_window [class="Urxvt"] focus
-for_window [class="Alacritty"] focus
+for_window [class="alacritty"] focus
 
 ################# variety for wallpapers      
 
